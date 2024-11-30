@@ -1,3 +1,5 @@
+# TOURNAMENT SCHEDULER 
+
 The  **Tournament Scheduler**is a robust, object-oriented application designed to simplify the management of sports tournaments. It implements full CRUD operations to handle match scheduling seamlessly. Here’s what it offers:
 
 **Create**: Automatically generate matches by pairing teams. Simply input the team names, and the scheduler efficiently creates all possible match combinations with unique IDs.
